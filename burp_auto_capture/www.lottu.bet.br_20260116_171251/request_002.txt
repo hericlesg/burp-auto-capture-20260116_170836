@@ -1,0 +1,19 @@
+POST /cdn-cgi/rum? HTTP/2
+Host: www.lottu.bet.br
+Cookie: _fbp=fb.1.1764867153492.59659586892345529; _gcl_au=1.1.1255460384.1764867154; _ga_833TYZP13Q=GS2.1.s1764867153$o1$g0$t1764867153$j60$l0$h0; _ga=GA1.1.39417592.1764867154; _ga_9DV344ZVDG=GS2.1.s1764867155$o1$g0$t1764867155$j60$l0$h0; _ga_PJ5V85MP8Z=GS2.1.s1764867154$o1$g0$t1764867267$j60$l0$h0; _clck=1civdd6%5E2%5Eg1w%5E0%5E2176; _hjSessionUser_6535523=eyJpZCI6ImE5ODg3ZWZhLTdhOTUtNTUwNS1iYjVjLWYyNWQ3Y2UxNWY1MCIsImNyZWF0ZWQiOjE3NjU5MjkxMTM5MzAsImV4aXN0aW5nIjp0cnVlfQ==; theme=dark; visited=true; __smartico_ls_id=1b820d1d-838c-4219-84ab-c851fcc3eff8
+Content-Length: 1745
+Sec-Ch-Ua: 
+Sec-Ch-Ua-Platform: ""
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.134 Safari/537.36
+Content-Type: application/json
+Accept: */*
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.lottu.bet.br/register?affiliate_id=693983763db2ce000b209bca&utm_medium=paid&utm_source=%7B%7Bsite_source_name%7D%7D&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_content=%7B%7Badset.name%7D%7D&utm_term=%7B%7Bad.name%7D%7D&fbclid=PAT01DUAPUmZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafqy8OXY-Zu8UF8_zSONLgcZUh39DFYTGD9E_FoVCFla-RobDxyBjga486xTA_aem_HbLHASeMPWD9erFsmx_yug
+Accept-Encoding: gzip, deflate
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+
+{"memory":{"totalJSHeapSize":27369734,"usedJSHeapSize":18727266,"jsHeapSizeLimit":4294705152},"resources":[],"referrer":"","eventType":1,"firstPaint":0,"firstContentfulPaint":0,"startTime":1768593898195.3,"versions":{"fl":"2024.11.0","js":"2024.6.1","timings":2},"pageloadId":"8f99323b-b4c7-4078-a2c8-452f8d4f83df","location":"https://www.lottu.bet.br/register","timingsV2":{"unloadEventStart":0,"unloadEventEnd":0,"domInteractive":726.7000000178814,"domContentLoadedEventStart":1238.5,"domContentLoadedEventEnd":1238.5,"domComplete":1238.6000000238419,"loadEventStart":1238.6000000238419,"loadEventEnd":1239.4000000059605,"type":"navigate","redirectCount":0,"activationStart":0,"initiatorType":"navigation","nextHopProtocol":"h2","workerStart":7.300000011920929,"redirectStart":0,"redirectEnd":0,"fetchStart":20.200000017881393,"domainLookupStart":20.200000017881393,"domainLookupEnd":20.200000017881393,"connectStart":20.200000017881393,"connectEnd":20.200000017881393,"secureConnectionStart":20.200000017881393,"requestStart":20.200000017881393,"responseStart":676.8000000119209,"responseEnd":677,"transferSize":300,"encodedBodySize":0,"decodedBodySize":0,"renderBlockingStatus":"non-blocking","responseStatus":200,"name":"https://www.lottu.bet.br/register?affiliate_id=693983763db2ce000b209bca&utm_medium=paid&utm_source=%7B%7Bsite_source_name%7D%7D&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_content=%7B%7Badset.name%7D%7D&utm_term=%7B%7Bad.name%7D%7D&fbclid=PAT01DUAPUmZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafqy8OXY-Zu8UF8_zSONLgcZUh39DFYTGD9E_FoVCFla-RobDxyBjga486xTA_aem_HbLHASeMPWD9erFsmx_yug","entryType":"navigation","startTime":0,"duration":1239.4000000059605},"siteToken":"7f84c14d1fdd4fbd81ea07d8e1669f7e","st":2}
