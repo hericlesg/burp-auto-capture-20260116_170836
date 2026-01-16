@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260116_171152", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/mpc-prod-17-s6uit34pua-wl.a.run.app_20260116_171152/request_001.txt", 
+      "url": "https://mpc-prod-17-s6uit34pua-wl.a.run.app:443/events?cee=no", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/mpc-prod-17-s6uit34pua-wl.a.run.app_20260116_171152/response_001.txt", 
+      "timestamp": 1768594118445
+    }
+  ], 
+  "host": "mpc-prod-17-s6uit34pua-wl.a.run.app", 
+  "total_requests": 1
+}
