@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20260116_171004", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-users.ngx.bet_20260116_171004/request_001.txt", 
+      "url": "https://alpha-users.ngx.bet:443/user/cpf?cpf=02726803113", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/alpha-users.ngx.bet_20260116_171004/response_001.txt", 
+      "timestamp": 1768594173011
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-users.ngx.bet_20260116_171004/request_002.txt", 
+      "url": "https://alpha-users.ngx.bet:443/user/cpf?cpf=13017006654", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/alpha-users.ngx.bet_20260116_171004/response_002.txt", 
+      "timestamp": 1768594185868
+    }
+  ], 
+  "host": "alpha-users.ngx.bet", 
+  "total_requests": 2
+}
