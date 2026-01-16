@@ -1,0 +1,17 @@
+POST /events?cee=no HTTP/2
+Host: mpc-prod-17-s6uit34pua-wl.a.run.app
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Referer: https://www.zeroum.bet/
+Content-Length: 1131
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"event_name":"PageView","fb.dynamic_product_ads":{},"custom_data":{},"event_id":"1768594370476_17685945840483","fb.pixel_id":"1207833731092772","fb.advanced_matching":{"em":"787c63e9435c045c704af5a1e6eaa78bf908a977cec0339e9353a81ada4aa08a","ph":"8fed5a5635ed0d00a32293e7a0bd690f05f812c8009f6fdde9cba31b3b0b874a","db":"3923ea266f159bee321da7c73ca0a27ac610dfe308046e75db05f9cfef871c34","ln":"ac4ad8a5caef08eabe316d27b28f72b842e412045aff160dc9cc26cfa802e82d","fn":"993bdbbf1fe599a857967b0e868dfca0d536d6b8799e7fc591f9ec8c95fbdc26","st":"4cd0e21a9a0795a14ec9aa5f0e7d1abff0492565770e43eafdf1e3e8afed1f33","ct":"33641dfec2d69dd6de6ab3edd3c3fadcfad2858955b9adc65439e7bc34df6db8","zp":"6280e7cc93a3aadfcd50829886702d4062d01522031c2acdc11433d15f13d1cf","country":"885036a0da3dff3c3e05bc79bf49382b12bc5098514ed57ce0875aba1aa2c40d","external_id":"6433277"},"website_context":{"location":"https://www.zeroum.bet/","referrer":"https://www.zeroum.bet/","isInIFrame":false},"fb.fbp":"fb.1.1755192960875.1052514722","event_meta_info":{"experiment_detail":{"name":"CEE_STRONG_PII","is_exposed":false,"is_in_control":true,"is_in_treatment":false}}}
