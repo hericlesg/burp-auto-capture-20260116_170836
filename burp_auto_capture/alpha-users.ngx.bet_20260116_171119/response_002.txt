@@ -1,0 +1,28 @@
+HTTP/2 200 OK
+Date: Fri, 16 Jan 2026 20:09:45 GMT
+Content-Type: application/json; charset=utf-8
+Cf-Ray: 9bf040849d7be154-GIG
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: *
+Vary: accept-encoding
+Etag: W/"129-/4iEZN4H9i/JcuYm6ppOmynq0H0"
+Server: cloudflare
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Via: 1.1 ae95183d59dc73c6c599155a3d4c7542.cloudfront.net (CloudFront)
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+X-Amz-Cf-Id: 6fcp_gNg2IOSmamz_UPhM61U2D-RmRRJVJRHBCuf4cf_h-ZvpDI4EA==
+X-Amz-Cf-Pop: MIA50-P7
+X-Cache: Miss from cloudfront
+X-Content-Type-Options: nosniff
+X-Dns-Prefetch-Control: off
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Speculation-Rules: "/cdn-cgi/speculation"
+Alt-Svc: h3=":443"; ma=86400
+
+{"is_reactivation":false,"cpf":"13017006654","name":"ARIADNE *U*MAO*MO**IR*","birth_date":"*8/0*/19*7","gender":"FEMALE","address":{"country":"BR","state":"MG","city":"*ORONE* F*B***IA**","street":"A*V*N**O*E*ARIO","zipcode":"****1052","neighborhood":"*L*P*N*O","number":"177","complement":"N/A"}}
