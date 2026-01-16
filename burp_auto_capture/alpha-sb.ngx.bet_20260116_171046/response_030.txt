@@ -1,0 +1,29 @@
+HTTP/2 304 Not Modified
+Date: Fri, 16 Jan 2026 20:09:23 GMT
+X-Cached-Response: true
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+Etag: W/"5c1-D6tmWpyUZE8KVm3+iNJfDgNmD3g"
+Vary: accept-encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 6895284e395204317ac1aa2c7b0a3d0c.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-P4
+X-Amz-Cf-Id: gQHq7Dvz4b1gTHYbj3pO2nYYERkKYzBXsvQw6uR_r0pErkdQgtH_TA==
+Age: 126
+Referrer-Policy: origin
+Cf-Cache-Status: DYNAMIC
+Speculation-Rules: "/cdn-cgi/speculation"
+Server: cloudflare
+Cf-Ray: 9bf04014290a098b-GRU
+Alt-Svc: h3=":443"; ma=86400
+
