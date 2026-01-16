@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Fri, 16 Jan 2026 20:09:26 GMT
+Cache-Control: public, max-age=-1
+Access-Control-Allow-Origin: https://www.lottu.bet.br
+Vary: Origin, Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 23cb48a8499223e93bb69a51b9fbac9a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P12
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: V4wFmmZ44HAfWOQ1RGeg-YHmElknjxdKMDVIIqWZMk8yYoj8wfTx9Q==
+
+{
+  "errMessage": "Visitor mode is not enabled, please follow instructions in https://help.smartico.ai/welcome/products/mini-games/mini-games-on-the-landing-pages#enabling-visitor-mode-in-smartico",
+  "errCode": 12,
+  "errSetup": true
+}
