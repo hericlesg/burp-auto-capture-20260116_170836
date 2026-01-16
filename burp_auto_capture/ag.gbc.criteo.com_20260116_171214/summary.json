@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260116_171214", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/ag.gbc.criteo.com_20260116_171214/request_001.txt", 
+      "url": "https://ag.gbc.criteo.com:443/newidsd", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/ag.gbc.criteo.com_20260116_171214/response_001.txt", 
+      "timestamp": 1768594120922
+    }
+  ], 
+  "host": "ag.gbc.criteo.com", 
+  "total_requests": 1
+}
