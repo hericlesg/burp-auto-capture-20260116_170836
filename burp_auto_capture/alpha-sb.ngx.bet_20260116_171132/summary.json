@@ -1,0 +1,431 @@
+{
+  "capture_timestamp": "20260116_171132", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_001.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/company/info", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_001.txt", 
+      "timestamp": 1768593900239
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_002.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/affiliation/click", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_002.txt", 
+      "timestamp": 1768593900734
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_003.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/promotion/available-registration?affiliate=693983763db2ce000b209bca", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_003.txt", 
+      "timestamp": 1768593901049
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_004.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/count", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_004.txt", 
+      "timestamp": 1768593901635
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_005.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/games/public?widget_ids=MaisJogados", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_005.txt", 
+      "timestamp": 1768593901659
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_006.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/studio/public?company=68783a6d49550000282c102d&enable=true", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_006.txt", 
+      "timestamp": 1768593901981
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_007.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/games/latest-winnings", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_007.txt", 
+      "timestamp": 1768593902002
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_008.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_008.txt", 
+      "timestamp": 1768593902052
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_009.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/favorite-leagues", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_009.txt", 
+      "timestamp": 1768593902087
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_010.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/highlights?type=CHALLENGE", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_010.txt", 
+      "timestamp": 1768593902096
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_011.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_011.txt", 
+      "timestamp": 1768593902404
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_012.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_012.txt", 
+      "timestamp": 1768593913009
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_013.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_013.txt", 
+      "timestamp": 1768593921048
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_014.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_014.txt", 
+      "timestamp": 1768593934683
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_015.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_015.txt", 
+      "timestamp": 1768593946618
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_016.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_016.txt", 
+      "timestamp": 1768593954640
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_017.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_017.txt", 
+      "timestamp": 1768593958647
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_018.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/count", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_018.txt", 
+      "timestamp": 1768593961629
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_019.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_019.txt", 
+      "timestamp": 1768593974921
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_020.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_020.txt", 
+      "timestamp": 1768593978669
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_021.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_021.txt", 
+      "timestamp": 1768593982422
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_022.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_022.txt", 
+      "timestamp": 1768593987166
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_023.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_023.txt", 
+      "timestamp": 1768594007233
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_024.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_024.txt", 
+      "timestamp": 1768594009878
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_025.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_025.txt", 
+      "timestamp": 1768594012428
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_026.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/company/info", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_026.txt", 
+      "timestamp": 1768594136737
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_027.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/affiliation/click", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_027.txt", 
+      "timestamp": 1768594163553
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_028.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/promotion/available-registration?affiliate=693983763db2ce000b209bca", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_028.txt", 
+      "timestamp": 1768594163618
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_029.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/count", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_029.txt", 
+      "timestamp": 1768594163981
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_030.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/games/public?widget_ids=MaisJogados", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_030.txt", 
+      "timestamp": 1768594164024
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_031.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/studio/public?company=68783a6d49550000282c102d&enable=true", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_031.txt", 
+      "timestamp": 1768594164461
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_032.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/casino/games/latest-winnings", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_032.txt", 
+      "timestamp": 1768594164481
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_033.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_033.txt", 
+      "timestamp": 1768594164524
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_034.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/highlights?type=CHALLENGE", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_034.txt", 
+      "timestamp": 1768594164545
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_035.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/favorite-leagues", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_035.txt", 
+      "timestamp": 1768594164552
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_036.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_036.txt", 
+      "timestamp": 1768594166650
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_037.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 37, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_037.txt", 
+      "timestamp": 1768594170293
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_038.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 38, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_038.txt", 
+      "timestamp": 1768594176227
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_039.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 39, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_039.txt", 
+      "timestamp": 1768594176585
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_040.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 40, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_040.txt", 
+      "timestamp": 1768594182156
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_041.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 41, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_041.txt", 
+      "timestamp": 1768594188024
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_042.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 42, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_042.txt", 
+      "timestamp": 1768594210389
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_043.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 43, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_043.txt", 
+      "timestamp": 1768594212816
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_044.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 44, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_044.txt", 
+      "timestamp": 1768594213577
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_045.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 45, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_045.txt", 
+      "timestamp": 1768594216703
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_046.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 46, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_046.txt", 
+      "timestamp": 1768594218953
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_047.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/count", 
+      "sequence_number": 47, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_047.txt", 
+      "timestamp": 1768594223987
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_048.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 48, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_048.txt", 
+      "timestamp": 1768594225686
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_049.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 49, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_049.txt", 
+      "timestamp": 1768594226585
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_050.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 50, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_050.txt", 
+      "timestamp": 1768594232079
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_051.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 51, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_051.txt", 
+      "timestamp": 1768594236591
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_052.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/live-summary", 
+      "sequence_number": 52, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_052.txt", 
+      "timestamp": 1768594238280
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/request_053.txt", 
+      "url": "https://alpha-sb.ngx.bet:443/event/main-odds?events=69565ed6be7764cfe8f13020&events=69565ed6be7764cfe8f12ff5&events=6955d834be7764cfe8f01da9&events=69565ed5be7764cfe8f12fec&events=69565ed6be7764cfe8f12ffd&events=6939f414be7764c57ca91e74&events=6939f3adbe7764c57ca91d3c&events=6939f458be7764c57ca91eed&events=6939f435be7764c57ca91ebc&events=6939f3debe7764c57ca91dcf&events=6939f492be7764c57ca91f45&events=6939f33cbe7764c57ca91910&events=6939f2dabe7764c57ca91619&events=69548690be7764cfe8ed21e3&events=6939f1debe7764c57ca90338&events=6939f283be7764c57ca91489&events=6939f25ebe7764c57ca90ade&events=6939f232be7764c57ca9050d&events=6939f19ebe7764c57ca90290&events=690c5812b063c1584bf536b9&events=6953ad41be7764cfe8ea7e32&events=6951e396be7764cfe8e58c1c&events=6966f38bbe7764bd029c834f&events=6960ee0bbe7764cfe811479f&events=6953ad41be7764cfe8ea7e33&events=6951e393be7764cfe8e58c04&events=6960ede9be7764cfe8114787&events=695aabd1be7764cfe8ffd94d&events=69524e91be7764cfe8e65751&events=6953ad41be7764cfe8ea7e31&events=69675b65be7764bd029dc59c&events=69524ecfbe7764cfe8e6580f&events=6966f377be7764bd029c830b&events=69509232be7764cfe8e15a97&events=6960edd1be7764cfe811475b&events=6960ed3dbe7764cfe811467a&events=695b9db1be7764cfe8030480&events=69593f43be7764cfe8f91f48&events=69593f4cbe7764cfe8f91f4d&events=69593f22be7764cfe8f91eec&events=695aab05be7764cfe8ffd4d9&events=69593f3ebe7764cfe8f91f20&events=695baa1fbe7764cfe8031d56&events=6960ed19be7764cfe8114603&events=695aa9fcbe7764cfe8ffccb7&events=695b9db1be7764cfe803047f&events=6947f902be7764cfe8c732e2&events=6947f901be7764cfe8c732ce", 
+      "sequence_number": 53, 
+      "response_file": "burp_auto_capture/alpha-sb.ngx.bet_20260116_171132/response_053.txt", 
+      "timestamp": 1768594246587
+    }
+  ], 
+  "host": "alpha-sb.ngx.bet", 
+  "total_requests": 53
+}
