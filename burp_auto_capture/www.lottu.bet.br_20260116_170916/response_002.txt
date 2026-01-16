@@ -1,0 +1,14 @@
+HTTP/2 204 No Content
+Date: Fri, 16 Jan 2026 20:04:59 GMT
+Content-Type: text/plain
+Access-Control-Allow-Origin: https://www.lottu.bet.br
+Access-Control-Allow-Methods: POST,OPTIONS
+Access-Control-Max-Age: 86400
+Vary: Origin, accept-encoding
+Access-Control-Allow-Credentials: true
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=JKp%2FbQu3ZHsvfSAR%2BkSEww5TDVNzEYTgAcQAAT1BNm%2FAy8U65aBSgpCtvwcJB0uVuX7I%2B7s0xFXgathQ9pSA9yRz75Fpwki199DzLQM%3D"}]}
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server: cloudflare
+Cf-Ray: 9bf0399f6fb4210d-GIG
+Alt-Svc: h3=":443"; ma=86400
+
