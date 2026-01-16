@@ -1,0 +1,19 @@
+POST /collect HTTP/1.1
+Host: y.clarity.ms
+Cookie: MUID=08E9BC3E447E66CB00ADAA7845346719
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.zeroum.bet/
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1364
+Origin: https://www.zeroum.bet
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+Connection: close
+
+{"e":["0.8.47",1,0,61164,"rjz72wzpkd","16g1myi","juxgnq",2,0,0,0,"https://www.zeroum.bet/"],"a":[[8,8,1182,1913],[18,11,1182,935],[18,28,0],[25,29,0,0,0,0,0,0,483,1204,1204,1204,0,0,"back_forward","h2",869411,869411],[60151,25,60143],[61164,34,"_clck",["16g1myi^2^g2r^0^2052"],"C_IS",["0","0"]],[61164,1,0,["Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0"],1,["https://www.zeroum.bet/"],2,["https://www.zeroum.bet/"],3,["Zeroum | Plataforma Nova de Apostas Esportivas e Cassino Online | A Melhor do Brasil"],4,["www.zeroum.bet","cdn.zeroum.bet","fonts.googleapis.com","fonts.gstatic.com","zeroum-api.zeroum.bet","libs.smartico.ai","zeroum-ws.zeroum.bet","zeroum-sportsbookapi.zeroum.bet","www.googletagmanager.com","googleads.g.doubleclick.net","analytics.google.com","sslwidget.criteo.com","ads.mythad.com","gum.criteo.com","mpc-prod-17-s6uit34pua-wl.a.run.app"],9,["pt-BR"],15,["10g53oy"],16,["pt"],19,["website"],20,["Zeroum | Plataforma Nova de Apostas Esportivas e Cassino Online | A Melhor do Brasil"],22,["Win32"],26,["1"],28,["2052"],29,["2"],31,["3omml9941.7dtr1bxy5"],32,["7w35v0qax.4gihzyg7h"],34,["America/Sao_Paulo"],35,["180"],36,["1"]],[61164,0,0,1768594117870,1,0,3,29,4,43,5,22,14,2560,15,1080,16,24,25,28,26,0,31,1,32,0,33,12,35,0],[61164,36,6,[295,28,1311,28,2352,78,7543,25,29865,0,32896,0]],[61164,47,0,1,1]]}
