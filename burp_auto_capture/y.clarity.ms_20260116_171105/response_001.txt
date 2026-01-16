@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 16 Jan 2026 20:09:27 GMT
+Content-Type: text/plain; charset=utf-8
+Connection: close
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.lottu.bet.br
+Vary: Origin
+Request-Context: appId=cid-v1:9be176e0-8728-424b-869d-39f1780884cb
+Content-Length: 47
+
+EXTRACT 0 {"34":".footer__description-wrapper"}
