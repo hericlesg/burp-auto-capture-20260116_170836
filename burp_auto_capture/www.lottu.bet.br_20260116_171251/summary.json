@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20260116_171251", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/request_001.txt", 
+      "url": "https://www.lottu.bet.br:443/register?affiliate_id=693983763db2ce000b209bca&utm_medium=paid&utm_source=%7B%7Bsite_source_name%7D%7D&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_content=%7B%7Badset.name%7D%7D&utm_term=%7B%7Bad.name%7D%7D&fbclid=PAT01DUAPUmZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafqy8OXY-Zu8UF8_zSONLgcZUh39DFYTGD9E_FoVCFla-RobDxyBjga486xTA_aem_HbLHASeMPWD9erFsmx_yug", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/response_001.txt", 
+      "timestamp": 1768593898856
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/request_002.txt", 
+      "url": "https://www.lottu.bet.br:443/cdn-cgi/rum?", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/response_002.txt", 
+      "timestamp": 1768593899477
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/request_003.txt", 
+      "url": "https://www.lottu.bet.br:443/register?affiliate_id=693983763db2ce000b209bca&utm_medium=paid&utm_source=%7B%7Bsite_source_name%7D%7D&utm_campaign=%7B%7Bcampaign.name%7D%7D&utm_content=%7B%7Badset.name%7D%7D&utm_term=%7B%7Bad.name%7D%7D&fbclid=PAT01DUAPUmZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafqy8OXY-Zu8UF8_zSONLgcZUh39DFYTGD9E_FoVCFla-RobDxyBjga486xTA_aem_HbLHASeMPWD9erFsmx_yug", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/response_003.txt", 
+      "timestamp": 1768594120513
+    }, 
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/request_004.txt", 
+      "url": "https://www.lottu.bet.br:443/cdn-cgi/rum?", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/www.lottu.bet.br_20260116_171251/response_004.txt", 
+      "timestamp": 1768594137146
+    }
+  ], 
+  "host": "www.lottu.bet.br", 
+  "total_requests": 4
+}
