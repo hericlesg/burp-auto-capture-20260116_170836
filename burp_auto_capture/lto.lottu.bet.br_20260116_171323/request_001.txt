@@ -1,0 +1,17 @@
+GET /g/collect?v=2&tid=G-30QTGFS905&gtm=45je61e1h1v9227752469z89236619191za20gzb9236619191zd9236619191&_p=1768594163064&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1212742195.1768593719&ecid=1772065473&ul=pt-br&sr=2560x1080&ur=BR-GO&frm=0&pscdl=noapi&_eu=AAAAAAQ&sst.etld=google.com.br&sst.tft=1768594163064&sst.lpc=230194561&sst.navt=n&sst.ude=0&sst.sw_exp=1&_s=1&tag_exp=103116026~103200004~104527906~104528501~104684208~104684211~105391253~115938465~115938469~116988315~117041587&sid=1768593718&sct=1&seg=1&dl=https%3A%2F%2Fwww.lottu.bet.br%2Fhome&dt=Lottu&_tu=BA&en=page_view&tfd=45026&richsstsse HTTP/2
+Host: lto.lottu.bet.br
+Cookie: _ga_30QTGFS905=GS2.1.s1768593718$o1$g1$t1768594165$j60$l0$h1772065473; _ga=GA1.1.1212742195.1768593719; _gcl_au=1.1.884712419.1768593719; _clck=1tb39xw%5E2%5Eg2r%5E0%5E2207; FPID=FPID2.3.isDlpxJb%2Fnyt%2FI4IoQF3bsUdCC%2BHUhcceD8Qsfit96I%3D.1768593719; FPLC=uzq9AMptKXaC%2B%2FdexWPhmnM2Y0D6GIH38Vh9ZXQ3LTByzww0wzDMVlrG7fbKT6%2F8fK4ETZC%2Bm54yv9FbwZ3NJy5zcmYii88fN5UCykdlRiEH9ttzfTCd7gDgtadtIg%3D%3D; _fbp=fb.2.1768593719788.39331018432126272; _clsk=124i9pe%5E1768593722243%5E1%5E0%5Ey.clarity.ms%2Fcollect
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-site
+Priority: u=4
+Pragma: no-cache
+Cache-Control: no-cache
+Te: trailers
+
