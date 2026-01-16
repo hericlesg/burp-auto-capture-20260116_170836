@@ -1,0 +1,10 @@
+HTTP/2 302 Found
+Content-Length: 0
+Date: Fri, 16 Jan 2026 20:08:37 GMT
+Server: Kestrel
+Cache-Control: private, max-age=0, no-cache, no-store, must-revalidate
+Location: /sync?s=1&c=977&r=2&a=1&j=crto_callback
+Set-Cookie: uid=2eea90dd-b6ab-423c-9cd2-286a8188b002; expires=Wed, 10 Feb 2027 20:08:38 GMT; domain=.criteo.com; path=/
+Server-Processing-Duration-In-Ticks: 961536
+Strict-Transport-Security: max-age=31536000; preload;
+
