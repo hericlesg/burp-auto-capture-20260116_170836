@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260116_171246", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/dnacdn.net_20260116_171246/request_001.txt", 
+      "url": "https://dnacdn.net:443/dna", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/dnacdn.net_20260116_171246/response_001.txt", 
+      "timestamp": 1768594120773
+    }
+  ], 
+  "host": "dnacdn.net", 
+  "total_requests": 1
+}
