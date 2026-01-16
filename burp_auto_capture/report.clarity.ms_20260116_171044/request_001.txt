@@ -1,0 +1,17 @@
+POST /brs HTTP/1.1
+Host: report.clarity.ms
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 669
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Te: trailers
+Connection: close
+
+{"v":"0.8.47","p":"uj2vrhi9rg","u":"1tb39xw","s":"124i9pe","n":2,"m":"Timeout : https://y.clarity.ms/collect","e":"ri/o.ontimeout@https://scripts.clarity.ms/0.8.47/clarity.js:2:57482\nYe@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:1441\ninvokeTask@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:19786\nrunTask@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:15076\ninvokeTask@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:20839\nZ@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:4837\nx@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:5131\nU@https://www.lottu.bet.br/polyfills.2b43a33f39955227.js:1:5396\n"}
