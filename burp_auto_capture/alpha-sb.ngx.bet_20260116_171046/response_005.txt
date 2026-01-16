@@ -1,0 +1,31 @@
+HTTP/2 200 OK
+Date: Fri, 16 Jan 2026 20:05:01 GMT
+Content-Type: application/json; charset=utf-8
+X-Cached-Response: true
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+Etag: W/"5c1-D6tmWpyUZE8KVm3+iNJfDgNmD3g"
+Vary: accept-encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 990b3edf87805fa9b76a37723fae6ba2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-P4
+X-Amz-Cf-Id: lKfA_MvSnkcs3o4LhXkwAzqhsZKyWkuCmVLMGk9JM96m49OgTBXKKQ==
+Age: 225
+Referrer-Policy: origin
+Cf-Cache-Status: DYNAMIC
+Speculation-Rules: "/cdn-cgi/speculation"
+Server: cloudflare
+Cf-Ray: 9bf039ac5c6688fb-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+[{"_id":"68b895371162a900289504a6","tags":{"demo":false,"recently_added":false},"type":"SLOT","demo":false,"highlights":false,"super_highlights":false,"active":true,"widget_ids":[{"_id":"6900fb3168c66c000ada294b","order":3,"id":"MaisJogados"}],"created_at":"2025-09-03T19:21:27.406Z","id":"MGS_floatingTigerGoldBlitzFortunesV94","name":"Floating Tiger Gold Blitz Fortunesâ¢","provider":"GAMES_GLOBAL","sequence":21,"mobile_id":"","category":"","mobile_category":"","studio":{"_id":"68a762b1a21de800280dbe2a","name":"FortuneFactoryStudios","studio_key":"fortunefactorystudios"},"custom_types":["SLOT"],"extra_info":{"id1":"101820","id2":"40301"}},{"_id":"68b8b56b192c720028793589","tags":{"demo":false,"recently_added":false},"type":"SLOT","demo":false,"highlights":true,"super_highlights":false,"active":true,"widget_ids":[{"_id":"6900fb1645ade8000bf235f8","order":2,"id":"MaisJogados"}],"created_at":"2025-09-03T21:38:51.202Z","id":"MGS_fortuneKingfisherV94","name":"Fortune Kingfisherâ¢","provider":"GAMES_GLOBAL","sequence":19,"mobile_id":"","category":"","mobile_category":"","studio":{"_id":"68a62068c761f10027bc78aa","name":"GamesGlobal","studio_key":"gamesglobal"},"custom_types":["SLOT"],"bet":{"max_value":null,"min_value":null},"extra_info":{"css":"","id1":"102166","id2":"40300"},"images":{"large":"","medium":"","small":""},"layout_version":0,"monitoring_category":"","vertical_images":{"large":"","medium":"","small":""},"extra_images":{"grid_expanded":""}}]
