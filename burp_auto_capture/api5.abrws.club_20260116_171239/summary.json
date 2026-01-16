@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260116_171239", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/api5.abrws.club_20260116_171239/request_001.txt", 
+      "url": "https://api5.abrws.club:443/websocket/services?master&domain=www.lottu.bet.br&version=1.3.329", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/api5.abrws.club_20260116_171239/response_001.txt", 
+      "timestamp": 1768594167367
+    }
+  ], 
+  "host": "api5.abrws.club", 
+  "total_requests": 1
+}
