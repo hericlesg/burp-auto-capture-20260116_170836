@@ -1,0 +1,27 @@
+HTTP/2 200 OK
+Date: Fri, 16 Jan 2026 20:05:00 GMT
+Content-Type: application/json; charset=utf-8
+Etag: W/"21-2auHKyygwX9ZBStTrxfKP+BYbw8"
+Vary: X-HTTP-Method-Override
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+X-Cache: Miss from cloudfront
+Via: 1.1 990b3edf87805fa9b76a37723fae6ba2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-P4
+X-Amz-Cf-Id: GAb6oIyf8kV_dzp11D6vnsb3N5RX4bcsDxDjZwuOhnJ-eezsZ611iw==
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9bf039a62f9f88fb-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"code":2000,"message":"Success"}
