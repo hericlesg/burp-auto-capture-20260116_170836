@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260116_171253", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gum.criteo.com_20260116_171253/request_001.txt", 
+      "url": "https://gum.criteo.com:443/sync?c=977&r=2&a=1&j=crto_callback", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gum.criteo.com_20260116_171253/response_001.txt", 
+      "timestamp": 1768594118575
+    }
+  ], 
+  "host": "gum.criteo.com", 
+  "total_requests": 1
+}
