@@ -1,0 +1,17 @@
+POST /visitorGame/13f9af1e-caff-4413-8444-5693fcdfcbae-5/3a305a11/pt/509 HTTP/2
+Host: d3gen1ksvxhac8.cloudfront.net
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 139
+Referer: https://www.lottu.bet.br/
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+{"api_key":"13f9af1e-caff-4413-8444-5693fcdfcbae","cid":509,"uuid":"472a272c-180f-4f83-af75-903d441e7b6d","ts":1768594166180,"src":"v-api"}
