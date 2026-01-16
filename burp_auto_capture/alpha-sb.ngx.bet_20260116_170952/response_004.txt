@@ -1,0 +1,30 @@
+HTTP/2 200 OK
+Date: Fri, 16 Jan 2026 20:05:01 GMT
+Content-Type: application/json; charset=utf-8
+X-Dns-Prefetch-Control: off
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: OPTIONS,GET,PUT,POST,DELETE,PATCH
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept, Authorization, api-key, rec_token, rec_type, node-control-app, sentry-trace, baggage, x-system-version
+Access-Control-Expose-Headers: Content-Type, Authorization, Mobile-Versioning, x-cached-response, ngx-lng, ngx-lat, ngx-country, ngx-city, ngx-state
+Mobile-Versioning: {"version":"2.6.3","cur_ver":"116","min_ver":"116"}
+System-Version: 1.0.40
+X-Cached-Response: true
+Etag: W/"26b-iGctiEx0U2W4j/jExLmNDQx2Cmo"
+X-Cache: Hit from cloudfront
+Via: 1.1 990b3edf87805fa9b76a37723fae6ba2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: MIA3-P4
+X-Amz-Cf-Id: l0h5JE662DJvnL4hdB_W_0lrXVvtbXXPwbRpoxwPvVZzz_QQQKbWcw==
+Age: 2
+Referrer-Policy: origin
+Cf-Cache-Status: DYNAMIC
+Speculation-Rules: "/cdn-cgi/speculation"
+Server: cloudflare
+Cf-Ray: 9bf039ac2c0788fb-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+[{"not_started":1265,"live":19,"event":"Soccer"},{"not_started":58,"live":0,"event":"Handball"},{"not_started":135,"live":0,"event":"Tennis"},{"not_started":25,"live":0,"event":"Outright"},{"not_started":185,"live":0,"event":"Volley"},{"not_started":102,"live":2,"event":"Basketball"},{"not_started":39,"live":0,"event":"Challenge"},{"not_started":34,"live":0,"event":"Mma"},{"not_started":12,"live":2,"event":"ESoccer"},{"not_started":250,"live":2,"event":"TableTennis"},{"not_started":37,"live":0,"event":"Boxing"},{"not_started":4,"live":0,"event":"AmericanFootball"},{"not_started":18,"live":0,"event":"IceHockey"}]
