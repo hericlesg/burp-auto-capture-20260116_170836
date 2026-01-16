@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Vary: origin
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.zeroum.bet
+Set-Cookie: cee=z57vMcVyy6zydjT3BeAu6Hib7UEfcdzhYFnUwzQ%2Fsuw%3D.%7B%22em%22%3A%22787c63e9435c045c704af5a1e6eaa78bf908a977cec0339e9353a81ada4aa08a%22%2C%22ph%22%3A%228fed5a5635ed0d00a32293e7a0bd690f05f812c8009f6fdde9cba31b3b0b874a%22%2C%22db%22%3A%223923ea266f159bee321da7c73ca0a27ac610dfe308046e75db05f9cfef871c34%22%2C%22ln%22%3A%22ac4ad8a5caef08eabe316d27b28f72b842e412045aff160dc9cc26cfa802e82d%22%2C%22fn%22%3A%22993bdbbf1fe599a857967b0e868dfca0d536d6b8799e7fc591f9ec8c95fbdc26%22%2C%22st%22%3A%224cd0e21a9a0795a14ec9aa5f0e7d1abff0492565770e43eafdf1e3e8afed1f33%22%2C%22ct%22%3A%2233641dfec2d69dd6de6ab3edd3c3fadcfad2858955b9adc65439e7bc34df6db8%22%2C%22zp%22%3A%226280e7cc93a3aadfcd50829886702d4062d01522031c2acdc11433d15f13d1cf%22%2C%22country%22%3A%22885036a0da3dff3c3e05bc79bf49382b12bc5098514ed57ce0875aba1aa2c40d%22%2C%22external_id%22%3A%226433277%22%7D; Max-Age=7776000; Expires=Thu, 16 Apr 2026 20:08:38 GMT; Domain=mpc-prod-17-s6uit34pua-wl.a.run.app; Secure; HTTPOnly; SameSite=Strict
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+X-Cloud-Trace-Context: 30e99eb68fc91884de4c7a7333812f4d
+Date: Fri, 16 Jan 2026 20:08:38 GMT
+Content-Type: text/html
+Server: Google Frontend
+Content-Length: 0
+Expires: Fri, 16 Jan 2026 20:08:38 GMT
+Cache-Control: private
+
