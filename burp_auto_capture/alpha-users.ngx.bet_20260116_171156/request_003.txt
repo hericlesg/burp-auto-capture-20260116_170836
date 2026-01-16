@@ -1,0 +1,18 @@
+POST /user/register HTTP/2
+Host: alpha-users.ngx.bet
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:147.0) Gecko/20100101 Firefox/147.0
+Accept: application/json, text/plain, */*
+Accept-Language: pt-BR,pt;q=0.9,en-US;q=0.8,en;q=0.7
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Content-Length: 918
+Referer: https://www.lottu.bet.br/
+Node-Control-App: Decoded
+Origin: https://www.lottu.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=0
+Te: trailers
+
+{"cpf":"13017006654","name":"ARIADNE *U*MAO*MO**IR*","birth_date":"2026-01-16","email":"admxship@gmail.com","contact":"21920257988","contact_country_code":"55","accept_terms":true,"promotion":"","accept_notifications":true,"password":"Senha@123","affiliate":"693983763db2ce000b209bca","additional_documents":[],"address":{"city":"*ORONE* F*B***IA**","complement":"N/A","country":"BR","neighborhood":"*L*P*N*O","number":"177","state":"MG","street":"A*V*N**O*E*ARIO","zipcode":"****1052","force_usage":false},"type":"CLIENT","source":"DESKTOP","external_params":{"affiliate_id":"693983763db2ce000b209bca","utm_medium":"paid","utm_source":"{{site_source_name}}","utm_campaign":"{{campaign.name}}","utm_content":"{{adset.name}}","utm_term":"{{ad.name}}","fbclid":"PAT01DUAPUmZxleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafqy8OXY-Zu8UF8_zSONLgcZUh39DFYTGD9E_FoVCFla-RobDxyBjga486xTA_aem_HbLHASeMPWD9erFsmx_yug"}}
