@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20260116_171044", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/report.clarity.ms_20260116_171044/request_001.txt", 
+      "url": "https://report.clarity.ms:443/brs", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/report.clarity.ms_20260116_171044/response_001.txt", 
+      "timestamp": 1768594192662
+    }
+  ], 
+  "host": "report.clarity.ms", 
+  "total_requests": 1
+}
