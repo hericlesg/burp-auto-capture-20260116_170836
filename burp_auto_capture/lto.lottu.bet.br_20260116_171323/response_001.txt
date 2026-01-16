@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://www.lottu.bet.br
+Cache-Control: no-cache
+Content-Type: text/plain
+Date: Fri, 16 Jan 2026 20:09:25 GMT
+Set-Cookie: FPID=FPID2.3.isDlpxJb%2Fnyt%2FI4IoQF3bsUdCC%2BHUhcceD8Qsfit96I%3D.1768593719; Max-Age=63072000; Domain=lottu.bet.br; Path=/; Secure; HttpOnly
+Trace-Id: 14163fd6-5793-473a-8377-6e6bdfee1892
+X-Accel-Buffering: no
+X-Content-Type-Options: nosniff
+X-Robots-Tag: noindex, nofollow
+
+event: message
+data: {"response":{"status_code":200,"body":""}}
+
